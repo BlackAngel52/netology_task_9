@@ -20,6 +20,9 @@ int main()
     const int size3{ 10 };
     int arr3[size3]{ 10, 8, 6, 4, 2, 1, 3, 5, 7, 9 };
     print(arr3, size3);
+
+    return 0;
+    
 }
 
 
